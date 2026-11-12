@@ -1,0 +1,8 @@
+*.lck
+*.kicad_prl
+*-backups/
+fp-info-cache
+_autosave-*
+scripts/
+update_credits.bat
+fusion/build_case.py
